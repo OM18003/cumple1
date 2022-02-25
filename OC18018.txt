@@ -1,0 +1,3 @@
+cargando archivo de invitaciones
+imprimiendo invitaciones
+termine de imprimir invitaciones
