@@ -3,3 +3,4 @@ Llamar a los lugares
 Preguntas por fechas disponibles
 Preguntar precio de alquiler
 Realizar contratacion
+otra tarea
