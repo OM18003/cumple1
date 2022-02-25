@@ -1,0 +1,9 @@
+buscar un sitio que alquilen mesas
+llamar al numero del negocio, o hacer la diligencia de ir al sitio de alquiler
+reservar la cantidad de mesas y sillas para el cumpleanios
+dar ubicacion para el traslado de las mesas y sillas
+verificar las mesas y sillas
+cancelar la reserva de mesas
+
+
+y ya
